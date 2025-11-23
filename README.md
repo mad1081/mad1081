@@ -18,4 +18,4 @@ Full-stack & AI developer experienced in building web applications with React an
 
 ## Connect
 - **Email:** zhasserik2019@gmail.com
-- **LinkedIn:** linkedin.com/in/zhasulan-serikbek
+- **LinkedIn:** [linkedin.com/in/zhasulan-serikbek](https://linkedin.com/in/zhasulan-serikbek)
